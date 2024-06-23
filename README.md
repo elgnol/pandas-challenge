@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pandas-Challenge
 ## PyCity Schools Analysis
 - Observation #1 :Students from charter school have a higher passing rate than those from district schools
 - Observation #2: Students with higher spending seem to have a lower overall passing percentage. Most likely the high spending are from speding time going out having fun rather than studying like those students who had a lower spending. Also, students from charter schools seems to have a smaller budget than those from district schools.
